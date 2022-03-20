@@ -1,0 +1,17 @@
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\bin\Debug\net6.0-windows\201213082_EMPEÑO.exe
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\bin\Debug\net6.0-windows\201213082_EMPEÑO.deps.json
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\bin\Debug\net6.0-windows\201213082_EMPEÑO.runtimeconfig.json
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\bin\Debug\net6.0-windows\201213082_EMPEÑO.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\bin\Debug\net6.0-windows\ref\201213082_EMPEÑO.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\bin\Debug\net6.0-windows\201213082_EMPEÑO.pdb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\201213082_EMPEÑO.vbproj.AssemblyReference.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\_201213082_EMPEÑO.Form1.resources
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\201213082_EMPEÑO.vbproj.GenerateResource.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\201213082_EMPEÑO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\201213082_EMPEÑO.AssemblyInfoInputs.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\201213082_EMPEÑO.AssemblyInfo.vb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\201213082_EMPEÑO.vbproj.CoreCompileInputs.cache
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\201213082_EMPEÑO.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\ref\201213082_EMPEÑO.dll
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\201213082_EMPEÑO.pdb
+C:\Users\merce\Desktop\JOSELYN\PROGRA 092\201213082_PARCIAL2\201213082_EMPEÑO\obj\Debug\net6.0-windows\201213082_EMPEÑO.genruntimeconfig.cache
